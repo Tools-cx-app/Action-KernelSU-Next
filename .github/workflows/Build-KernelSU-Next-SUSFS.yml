@@ -20,5 +20,5 @@ jobs:
           lxc: true
           lxc-patch: true
           anykernel3: true
-          android-version: 14
+          android-version: 12
           aosp-clang-version: r383902
